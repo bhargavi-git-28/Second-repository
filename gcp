@@ -1,2 +1,3 @@
 Google Cloud Platform (GCP) is a comprehensive suite of cloud computing services offered by Google, providing infrastructure (IaaS), platform (PaaS), and serverless environments. 
 It runs on Google’s internal infrastructure, offering high scalability and security in areas like AI, data analytics, storage, and networking
+Compute: Compute Engine (VMs), Google Kubernetes Engine (GKE), and Cloud Run.
