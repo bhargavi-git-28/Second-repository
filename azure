@@ -1,0 +1,1 @@
+ssh -i "Devops.pem" ec2-user@ec2-44-210-16-195.compute-1.amazonaws.com
