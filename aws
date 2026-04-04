@@ -12,4 +12,9 @@ int main() {
 
     return 0; // Indicate successful program termination
 }
+new file jenkins
+int num1, num2, sum; // Declare integer variables
+
+    printf("Enter two integers: "); // Prompt the user for input
+    scanf("%d %d", &num1, &num2); // Read and store the user input
 
